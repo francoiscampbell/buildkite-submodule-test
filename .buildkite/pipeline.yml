@@ -1,0 +1,5 @@
+steps:
+  - label: Test step
+    agents:
+      queue: test
+    command: echo Hello
